@@ -1,0 +1,2 @@
+[0309/111000.050:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\AKHIL\AppData\Local\Temp\scoped_dir16624_1160272684\Crashpad: The system cannot find the file specified. (0x2)
+[0310/114035.371:ERROR:crash_report_database_win.cc(585)] GetFileAttributes C:\Users\AKHIL\AppData\Local\Temp\scoped_dir740_887227814\Crashpad: The system cannot find the file specified. (0x2)
